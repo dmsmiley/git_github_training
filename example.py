@@ -6,4 +6,6 @@ def add(a,b):
 def subtract(a,b):
   return a-b
 
-"""Add a multiply function"""
+def multiply(a,b):
+  """ Multiplies a by b."""
+  return a * b
